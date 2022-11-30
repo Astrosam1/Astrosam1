@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Astrosam1
+- 👋 Hi, I’m Samuel
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Ms excel
 - 💞️ I’m looking to collaborate on Data Analysis Projects
